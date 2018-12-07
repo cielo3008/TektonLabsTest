@@ -1,2 +1,2 @@
 # TektonLabsTest
-This is a test where my knoledge will be shown.
+This is a test where my knowledge will be shown.
